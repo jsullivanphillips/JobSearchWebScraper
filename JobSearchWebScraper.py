@@ -20,7 +20,14 @@ url_list = [
     "https://www.bctechjobs.ca/search-jobs?q=developer&location=#page=12&q=developer&location=&range=0&freshness=0&categoryIds=&employerTypeIds=&positionTypeIds=&memberStatusIds=&careerLevelIds=&featuredEmployersOnly=false&trainingPositionsOnly=false",
     "https://ca.indeed.com/q-junior-developer-l-victoria,-bc-jobs.html?from=relatedQueries&saIdx=2&rqf=1&parentQnorm=developer+intern&vjk=d78185945bc107ab",
     "https://ca.indeed.com/jobs?q=junior+developer&l=victoria%2C+bc&rqf=1&start=10&vjk=1a8940ea86c1202c",
-    "https://ca.indeed.com/jobs?q=junior+developer&l=victoria%2C+bc&radius=50&rqf=1&start=20&vjk=6ad1b74144602094"
+    "https://ca.indeed.com/jobs?q=junior+developer&l=victoria%2C+bc&radius=50&rqf=1&start=20&vjk=6ad1b74144602094",
+    "https://jobs.techtalent.ca/",
+    "https://jobs.techtalent.ca/?p=2",
+    "https://jobs.techtalent.ca/?p=3",
+    "https://jobs.techtalent.ca/?p=4",
+    "https://jobs.techtalent.ca/?p=5",
+    "https://jobs.techtalent.ca/?p=6",
+    "https://jobs.techtalent.ca/?p=7"
 ]
 
 def job_postings_on_web():
